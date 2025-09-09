@@ -13,7 +13,6 @@ The primary objective of this research project is to reproduce the findings pres
 ## Table of Contents
 - [Data Availability](#data-availability)
 - [Usage](#usage)
-- [Notes](#notes)
 
 ## Data Availability
 
